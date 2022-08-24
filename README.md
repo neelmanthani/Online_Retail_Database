@@ -4,6 +4,8 @@ Welcome to Database Systems!. Please modify this README file with the following 
 
 1. Your name, and student id here. Otherwise, I don't know who you are and I cannot grade your work
 
+Neel Manthani. 922355314
+
 2. After the complexion of each milestone, and before their deadline, set it to done/complete in the following table. 
 
 
