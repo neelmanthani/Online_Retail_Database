@@ -2,9 +2,7 @@
 # CSC675-775 Section 03 Database Systems
 Welcome to Database Systems!. Please modify this README file with the following info: 
 
-1. Your name, and student id here. Otherwise, I don't know who you are and I cannot grade your work
-
-Neel Manthani. 922355314
+1. Neel Manthani, 922355314
 
 2. After the complexion of each milestone, and before their deadline, set it to done/complete in the following table. 
 
